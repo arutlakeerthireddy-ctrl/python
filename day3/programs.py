@@ -1,4 +1,4 @@
-#programs on Numbers (int, float, complex)
+#1.programs on Numbers (int, float, complex)
 #integer
 a=45
 print(a)
@@ -47,7 +47,27 @@ cel=37.5
 fahr=(cel*9/5)+32
 print("temperature in fahrenheit:",fahr)
 
-#finding maximum and minimum between two numbers
+#8.finding maximum and minimum between two numbers
 x=15
 y=25
+maximum=max(x,y)
+minimum=min(x,y)
+print("maximum:",maximum)
+print("minimum:",minimum)
+
+#9.square and cube of a number
+n=6
+square=n**2
+cube=n**3
+print("square:",square)
+print("cube:",cube)
+
+#10.program using conjugate of a complex number
+c=3+4j
+print(c.conjugate())
+
+
+
+
+
 
