@@ -111,5 +111,11 @@ else:
 Enter second string: silent
 Anagrams
 """
-   
+#14.Zero-fill a string
+s=input("Enter a string: ")
+print(s.zfill(10))
+"""output: Enter a string: 123
+0000000123
+"""
+ 
 

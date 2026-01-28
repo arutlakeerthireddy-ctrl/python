@@ -1,6 +1,7 @@
 # String Methods in Python
 string methops are built in functions used to modify,search analyze strings.
 they do not change the original string but return a new string.
+
 some common string methods are:
 #1.lower()
 convert all characters in a string to lowercase.
