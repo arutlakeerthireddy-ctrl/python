@@ -1,7 +1,7 @@
 #Arithmetic  operators:+,-,*,/,%,//,**
 #programs 
 #1.All arithmetic operations using user input
-"""x=int(input("Enter a num1:"))
+x=int(input("Enter a num1:"))
 y=int(input("Enter a num2:"))
 print("Addition:",x+y)
 print("Subtraction:",x-y)
