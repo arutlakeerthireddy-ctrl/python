@@ -65,7 +65,7 @@ print("Percentage:",percent)
 #7 square and cube of a number
 n=3
 print("square:",n**2)
-print("cube:",n**3)"""
+print("cube:",n**3)
 
 #8.Adding length of strings using arithmetic 
 s1="python"

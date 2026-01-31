@@ -1,5 +1,5 @@
 #1.check greater number
-"""x=int(input("Enter a num1:")) #20
+x=int(input("Enter a num1:")) #20
 y=int(input("Enter a num2:")) #5
 print(x>y) #True
 print(x<y) #False
@@ -25,7 +25,7 @@ print(bool("hi")) #True
 print(bool(" ")) #True
 print(bool()) #False
 print(bool(20)) #True
-print(bool([])) #FalseS"""
+print(bool([])) #False
 
 #6.Display Boolean values
 x=True
