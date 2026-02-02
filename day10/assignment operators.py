@@ -2,7 +2,7 @@
 #operators:=,+=,-=,*=,/=,%=,//=,**=
 #programs
 #1.Write a program to increase a number by 10 using +=.
-"""num=int(input("Enter number:"))
+num=int(input("Enter number:"))
 num+=10
 print(num)
 
@@ -54,12 +54,11 @@ print(a)
 s=int(input("Enter initial salary:"))
 i=int(input("Enter increment:"))
 s+=i
-print(s)"""
+print(s)
 
 #11.Write a program to calculate total bill amount after discount.
 amount=int(input("Enter bill amount:"))
 dis=float(input("Enter discount:"))
-total=amount*dis/100
-amount-=total
+amount-=amount*dis/100
 print("total:",amount)
 
