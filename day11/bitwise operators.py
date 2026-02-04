@@ -21,6 +21,7 @@ print(a^b)
 #Bitwise NOT(~)
 Inverts all bits (0 → 1, 1 → 0).
 Produces the 2’s complement result.
+formula:~n=-(n+1)
 ex:num=5
    print(~num)
 
