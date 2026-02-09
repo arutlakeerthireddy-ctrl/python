@@ -1,5 +1,5 @@
 #methods for removing elements from list
-"""li=[10,20,30,40]
+li=[10,20,30,40]
 li.remove(30)#remove value
 li.pop()#remove last element
 li.pop(2)#remove index 2 value
@@ -49,11 +49,11 @@ print(len(li))#
 #max() and min()
 li=[1,2,3,4]
 print(max(li))#4
-print(min(li))#1"""
+print(min(li))#1
 
 #sum()
 li=[1,2,3,4]
-print(sum(li))
+print(sum(li))#10
 
 
 
