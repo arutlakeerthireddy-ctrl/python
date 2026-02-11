@@ -16,8 +16,6 @@ for i in li:
     
 print(x)#24
 
-#Write a program to separate even and odd numbers from a list.
-
 #Write a program to find the difference between max and min elements.
 li=[1,2,3,4]
 difference=max(li)-min(li)
