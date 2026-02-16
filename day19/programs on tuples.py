@@ -49,13 +49,4 @@ print(t)#((1, 2), (3, 4))
 
 
 
-11. #Repeat tuple `("Hi",)` four times.
-12. #Check whether `20` exists in `(10, 20, 30, 40)`.
-13. #Compare `(1,2,3)` and `(1,2,4)` using comparison operators.
-14. #Multiply all elements in `t = (1,2,3,4)` using a built-in function.
-15. #Find the index of `30` in `(10,20,30,40)`.
-16. #Join words in `("I","Love","Python")` into a single string.
-17. #Count occurrences of `"a"` in `("apple","banana","mango")`.
-18. #Convert all strings in `("apple","banana","mango")` to uppercase.
-19. #Access element `4` from `t = (1,2,(3,4),5)`.
-20. #Flatten `((1,2),(3,4))` into `(1,2,3,4)` without loops.
+
