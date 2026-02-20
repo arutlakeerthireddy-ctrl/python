@@ -7,8 +7,6 @@ print(d["age"])#21
 #get():
 d={"name":"keerthi","age":21,"course":"csm"}
 print(d.get("name"))#keerthi
-print(d.get(21))
-
 
 #keys:returns all keys
 d={"name":"keerthi","age":21,"course":"csm"}
