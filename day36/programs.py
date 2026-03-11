@@ -1,5 +1,5 @@
 #Write a program to count consonants in a string.
-"""s=input("Enter string:")
+s=input("Enter string:")
 s.lower()
 count=0
 for ch in s:
@@ -23,7 +23,7 @@ for ch in s:
     if ch.islower():
         lower_count+=1
 print("uppercase:",upper_count)
-print("lowercase:",lower_count)"""
+print("lowercase:",lower_count)
 
 
 #Write a program to calculate the sum of elements in a list.
