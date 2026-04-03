@@ -1,0 +1,3 @@
+def func(*args):
+    return len(args)
+print(func(1,3,2,4))
