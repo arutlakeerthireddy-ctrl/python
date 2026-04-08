@@ -4,5 +4,5 @@ def func():
     x=9
     x=10
     x=4
-    print(x)
+    print(x) #4
 func()
