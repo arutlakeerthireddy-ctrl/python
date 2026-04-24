@@ -9,4 +9,9 @@ def sum_n(n):
     return n + sum_n(n-1)
 print(sum_n(8))
 
-    
+def print_nums(n):
+    if n==0:
+        return
+    print_nums(n-1)
+    print(n)
+print_nums(5)
