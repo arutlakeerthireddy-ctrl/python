@@ -1,4 +1,4 @@
-#Print numbers from 1 to N using recursion
+##Print numbers from 1 to N using recursion
 #without recursion
 def func(n):
     for i in range(1,n+1):
